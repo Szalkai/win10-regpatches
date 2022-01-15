@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+;This will disable app tracking in Windows 10
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\EdgeUI]
+"DisableMFUTracking"=dword:00000001

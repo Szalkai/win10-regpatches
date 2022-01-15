@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+;This will error reporting in Windows 10
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\Windows Error Reporting]
+"Disabled"=dword:00000001
